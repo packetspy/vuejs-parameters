@@ -4,6 +4,10 @@
       "route": "/page-with-parameter",
       "methods": [
         "get"
+      ],
+      "rewrite": "/page-with-parameter",
+      "allowedRoles": [
+        "anonymous"
       ]
     }
   ]
