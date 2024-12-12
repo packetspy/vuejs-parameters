@@ -6,6 +6,7 @@
         "get"
       ],
       "rewrite": "/page-with-parameter",
+      "statusCode": 200,
       "allowedRoles": [
         "anonymous"
       ]
